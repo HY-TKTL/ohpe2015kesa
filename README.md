@@ -27,7 +27,7 @@ Sarja 7      | Torstai 18.6.
 
 Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa tehdään lisäksi toisesta viikosta lähtien pienimuotoisia paritöitä.
 
-Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per viikko. 
+Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per tehtäväsarja. 
 
 Ohjausta järjestetään Exactumin luokassa B221 11.5. - 18.6. seuraavina aikoina:
 
