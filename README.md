@@ -5,8 +5,8 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 
 # Luennot
 
-Aloitusluento: ma 11.5. klo 16.15-18 
-Opetuspaikka: A111, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
+- Aloitusluento: ma 11.5. klo 16.15-18 
+- Opetuspaikka: A111, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
 
 # Harjoitukset ja tehtävät
 
