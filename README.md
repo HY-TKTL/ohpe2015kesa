@@ -36,7 +36,7 @@ Päivä | Kellonaika | Huomiot
 Maanantaisin | klo 16-20 | (11.5. aloitusluennon jälkeen klo 18-20)
 Tiistaisin   | klo 12-16 |
 Keskiviikkoisin | klo 16-20 |
-Torstaisin   | klo 14-18 | (ei torstainan 14.5.)
+Torstaisin   | klo 14-18 | (ei torstaina 14.5.)
 Perjantaisin | klo 12-18 |
 
 Luokassa saa toki työskennellä myös muulloin :)
