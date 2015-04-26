@@ -37,8 +37,8 @@ Kurssin lopuksi järjestetään kurssikoe sekä kaksi uusintakoetta. Vaikka kurs
 Kurssille osallistuminen vaatii tunnuksen tehtävien tarkastusjärjestelmään ("TMC"). Huom! Kun luot TMC-tunnuksen, käytä opiskelijanumeroasi TMC-tunnuksena. Tämä mahdollistaa tehtäväpisteiden kytkemisen sinuun.
 
 Ohjeet kurssin työkalujen (NetBeans ja TMC) käyttöön ja TMC-tunnuksen luomiseen:
-- [Tietojenkäsittelytieteen laitoksen koneilla](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/TmcBeanssinAsennusLaitokselle.md)
-- [Omalta koneelta](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/TmcBeanssinAsennusOmalleKoneelle.md)
+- [Ohjeet tehtävien tekemiseen omalla tietojenkäsittelytieteen laitoksen koneilla](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/TmcBeanssinAsennusLaitokselle.md)
+- [Ohjeet tehtävien tekemiseen omalla koneella](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/TmcBeanssinAsennusOmalleKoneelle.md)
 
 Jos teet tehtäviä sekä kotoa että TKTL:ltä, seuraa molempia ohjeita, mutta tee vain yksi TMC-tunnus :).
 
