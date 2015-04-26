@@ -25,3 +25,7 @@ Torstaisin   | klo 14-18 | (ei torstainan 14.5.)
 Perjantaisin | klo 12-18 |
 
 Luokassa saa toki työskennellä myös muulloin :)
+
+# Kokeet
+
+Kurssin lopuksi järjestetään kurssikoe sekä kaksi uusintakoetta. Lisätietoa kokeista löydät avoimen sivuilta: <https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461>.
