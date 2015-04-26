@@ -30,7 +30,7 @@ Luokassa saa toki työskennellä myös muulloin :)
 
 Kurssin lopuksi järjestetään kurssikoe sekä kaksi uusintakoetta. Vaikka kurssin tehtävät tehdäänkin tietokoneella ovat tentit paperitenttejä. 
 
-**Muista ilmoittautua valitsemaasi tenttiin viimeistään 10 vuorokautta ennen tenttipäivää Avoimen yliopiston Omat sivut-palvelussa.** 
+**Muista ilmoittautua** valitsemaasi **tenttiin** viimeistään **10 vuorokautta ennen tenttipäivää** Avoimen yliopiston Omat sivut-palvelussa.
 
 Lisätietoa kokeista löydät avoimen sivuilta: <https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461>.
 
