@@ -3,10 +3,25 @@
 Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on viikottaisissa harjoitustehtäväsarjoissa, joita tehdään harjoitusryhmissä. 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
-## Luennot
 
-- Aloitusluento: ma 11.5. klo 16.15-18 
+## Aikataulu
+
+Kurssilla on vain yksi luento:
+- Aloitusluento: maanantaina 11.5. klo 16.15-18 
 - Opetuspaikka: A111, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
+
+Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä.
+
+Tehtäväsarja | Deadline
+:----------- |:--------
+Sarja 1      | Sunnuntai 17.5.
+Sarja 2      | Torstai 21.5.
+Sarja 3      | Keskiviikko 27.5.
+Sarja 4      | Tiistai 2.6.
+Sarja 5      | Maanantai 8.6.
+Sarja 6      | Perjantai 12.6.
+Sarja 7      | Torstai 18.6.
+
 
 ## Harjoitukset ja tehtävät
 
@@ -45,3 +60,11 @@ Jos teet tehtäviä sekä kotoa että TKTL:ltä, seuraa molempia ohjeita, mutta 
 Kurssimateriaali ja tehtävät löytyvät osoitteesta **TODO** -- kun materiaali kysyy TMC-tunnusta, kirjoita opiskelijanumerosi. Materiaalia julkaistaan lisää viikoittain.
 
 Ohjelmoinnin jatkokurssin materiaali alkaa viikosta 8.
+
+## Kurssien arvosteluperusteet ja tuloslista
+
+Kurssien arvostelu on *hyväksytty* / *hylätty*.
+
+Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista ja 30 kokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi kokeesta tulee saada vähintään puolet pisteistä. 
+
+Molemmat kurssit koostuvat seitsemästä harjoitustehtäväsarjasta. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä.
