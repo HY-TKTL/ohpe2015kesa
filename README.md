@@ -1,4 +1,4 @@
-# Ohjelmoinnin perusteet ja jatkokurssi, kesä 2015
+# Ohjelmoinnin perusteet, kesä 2015
 
 Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on viikottaisissa harjoitustehtäväsarjoissa, joita tehdään harjoitusryhmissä. 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
