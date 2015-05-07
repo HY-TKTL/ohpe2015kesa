@@ -12,6 +12,8 @@ Kurssilla on vain yksi luento:
 
 Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä.
 
+**ALUSTAVA**
+
 Tehtäväsarja | Deadline
 :----------- |:--------
 Sarja 1      | Sunnuntai 17.5.
@@ -42,8 +44,6 @@ Perjantaisin | klo 12-18 |
 Luokassa saa toki työskennellä myös muulloin :)
 
 ## Kokeet
-
-Kurssin lopuksi järjestetään kurssikoe sekä kaksi uusintakoetta. Vaikka kurssin tehtävät tehdäänkin tietokoneella ovat tentit paperitenttejä. 
 
 **Muista ilmoittautua valitsemaasi tenttiin viimeistään 10 vuorokautta ennen tenttipäivää** Avoimen yliopiston Omat sivut-palvelussa. Lisätietoa kokeista löydät avoimen yliopiston sivuilta: <https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461>.
 
