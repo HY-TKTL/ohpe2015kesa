@@ -3,6 +3,13 @@
 Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on viikottaisissa harjoitustehtäväsarjoissa, joita tehdään harjoitusryhmissä. 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
+## Sisällysluettelo
+
+1. [Aikataulu](#Aikataulu)
+2. [Tehtävät ja harjoitukset](#tehtavat-ja-harjoitukset)
+3. [Kokeet](#Kokeet)
+4. [Kurssimateriaalit ja osallistuminen](#Kurssimateriaalit ja osallistuminen)
+5. [Kurssien arvosteluperusteet ja tuloslista](#Kurssien arvosteluperusteet ja tuloslista)
 
 ## Aikataulu
 
@@ -25,7 +32,7 @@ Sarja 6      | Perjantai 12.6.
 Sarja 7      | Torstai 18.6.
 
 
-## Harjoitukset ja tehtävät
+## Tehtävät ja harjoitukset
 
 Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa tehdään lisäksi toisesta viikosta lähtien pienimuotoisia paritöitä.
 
