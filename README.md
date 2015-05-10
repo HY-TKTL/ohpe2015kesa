@@ -130,4 +130,4 @@ Luokka B221 on kurssin opiskelijoiden käytössä pääsääntöisesti myös ohj
 
 Kaikki mahdolliset yhteydenotot sähköpostitse, lue tämä sivu kuitenkin huolella ennen viestin lähettämistä. 
 
-Joni Salmi <[josalmi@cs.helsinki.fi](mailto:Joni Salmi %3Cjosalmi@cs.helsinki.fi%3E)>
+Joni Salmi <br><[josalmi@cs.helsinki.fi](mailto:Joni Salmi %3Cjosalmi@cs.helsinki.fi%3E)>
