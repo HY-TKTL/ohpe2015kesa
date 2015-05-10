@@ -86,7 +86,13 @@ Luokassa saa toki työskennellä myös muulloin :)
 
 ## Kokeet
 
+### Paperikoe
+
 **Muista ilmoittautua valitsemaasi tenttiin viimeistään 10 vuorokautta ennen tenttipäivää** Avoimen yliopiston Omat sivut-palvelussa. Lisätietoa kokeista löydät avoimen yliopiston sivuilta: <https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461>.
+
+Vanhoja kokeita nähtävillä osoitteessa <https://github.com/HY-TKTL/ohpe2015kesa/tree/master/vanhat-kokeet>.
+
+### Konekoe
 
 Paperitentin lisäksi kurssi lopuksi järjestetään konekoe. Konekokeeseen ei tarvitse erikseen ilmoittatua, se suoritetaan joko kotona tai laitoksella itsenäisesti. Konekokeesta tulee lisätietoa myöhemmin. 
 
