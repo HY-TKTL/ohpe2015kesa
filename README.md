@@ -3,6 +3,11 @@
 Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on viikottaisissa harjoitustehtäväsarjoissa, joita tehdään harjoitusryhmissä. 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
+## Tärkeitä linkkejä
+
+- [Materiaali](http://www.cs.helsinki.fi/group/java/kesa15/viikko1/)
+- [Pistelista](javascript:alert('todo'))
+
 ## Sisällysluettelo
 
 1. [Aikataulu](#aikataulu)
@@ -12,6 +17,8 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 4. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
 5. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
 6. [Usein kysytyt kysymykset (UKK)](#ukk)
+
+
 
 ## Aikataulu
 
@@ -36,7 +43,7 @@ Viikko 7     |                   | Torstai 18.6.
 
 ## Tehtävät ja harjoitukset
 
-Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa tehdään lisäksi toisesta viikosta lähtien pienimuotoisia paritöitä.
+Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa/ohjausaikoina tehdään lisäksi toisesta viikosta lähtien pienimuotoisia paritöitä.
 
 Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per tehtäväsarja.
 
@@ -77,7 +84,7 @@ Kurssimateriaali ja tehtävät löytyvät osoitteesta <http://www.cs.helsinki.fi
 
 Kurssien arvostelu on *hyväksytty* / *hylätty*.
 
-Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista ja 30 kokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi kokeesta tulee saada vähintään puolet pisteistä. 
+Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista, 15 paperikokeesta ja 15 konekokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi molemmista kokeista tulee saada vähintään puolet pisteistä. 
 
 Molemmat kurssit koostuvat seitsemästä harjoitustehtäväsarjasta. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä.
 
