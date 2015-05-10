@@ -58,9 +58,9 @@ Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävi
 
 Tehtäväpisteet muuntuvat kurssipisteiksi seuraavasti. Ensimmäisen kurssipisteen saa kymmenellä (10) prosentilla viikon tehtäväpisteistä ja aina yhdeksäänkymmeneen (90) prosenttiin asti kukin kymmenen (10) prosentin edistyminen tuo yhden kurssipisteen lisää. Viimeisen kurssipisteen saa yhdeksälläkymmenelläviidellä (95) prosentilla.
 
-Jos viikon maksimi on 100 tehtäväpistettä näyttää pisteytys seuraavalta:
+Jos viikon maksimi olisi sata (100) tehtäväpistettä näyttäisi pisteytys seuraavalta:
 
-| Tehtäväpisteitä | Kurssipisteitä
+| Tehtäväpisteitä / 100 | Kurssipisteitä
 |:--------------- |:--------------
 | 0-9             | 0
 | 10-19           | 1
