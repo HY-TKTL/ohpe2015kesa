@@ -20,12 +20,12 @@ Kurssilla on vain yksi luento:
 
 Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä.
 
-**ALUSTAVA**
+**ALUSTAVAT**
 
 Tehtäväsarja | Julkaisupäivä     | Deadline
 :----------- |:----------------- |:--------
-Viikko 1     | Maanantaina 11.5. | Sunnuntai 17.5.
-Viikko 2     |                   | Torstai 21.5.
+Viikko 1     | Maanantai 11.5.   | Sunnuntai 17.5.
+Viikko 2     | Perjantai 15.5. (alustava)   | Torstai 21.5.
 Viikko 3     |                   | Keskiviikko 27.5.
 Viikko 4     |                   | Tiistai 2.6.
 Viikko 5     |                   | Maanantai 8.6.
