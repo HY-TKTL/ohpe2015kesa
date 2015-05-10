@@ -51,12 +51,10 @@ Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävi
 
 ### Tehtävien pisteytys
 
-Jokainen tehtävän alikohta lasketaan yhdeksi pisteeksi, alikohdattomat tehtävät ovat yhden pisteen arvoisia, jokainen selitystehtävä on kahden pisteen arvoinen ja jokainen pariohjelmointitehtävä on neljän pisteen arvoinen. 
-
-- 4 pistettä per pariohjelmointitehtävä
-- 2 pistettä per selitystehtävä
-- 1 piste jokaisesta tehtävän alikohdasta TMC-tehtävissä
 - 1 piste per alikohdaton TMC-tehtävä
+- 1 piste per alikohta alikohdallisissa TMC-tehtävissä
+- 2 pistettä per selitystehtävä
+- 4 pistettä per pariohjelmointitehtävä
 
 ### Ohjaus
 Ohjausta järjestetään Exactumin luokassa B221 11.5. - 18.6. seuraavina aikoina:
