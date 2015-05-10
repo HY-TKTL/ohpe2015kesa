@@ -19,6 +19,7 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 4. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
 5. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
 6. [Usein kysytyt kysymykset (UKK)](#ukk)
+7. [Yhteystiedot](#yhteystiedot)
 
 
 
@@ -125,5 +126,8 @@ Kurssilla järjestetään ohjausta viikon jokaisena arkipäivänä vähintään 
 
 Luokka B221 on kurssin opiskelijoiden käytössä pääsääntöisesti myös ohjausaikojen ulkopuolella. Jos kuitenkin luokassa on jotain muuta toimintaa lienee Exactumin luokassa BK107 tilaa sekä koneita tehtävien tekemistä varten.
 
-### 
+## Yhteystiedot
+
+Joni Salmi
+josalmi (at) cs.helsinki.fi *tai* joni.m.salmi (at) helsinki.fi
 
