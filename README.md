@@ -57,7 +57,7 @@ Luokassa saa toki työskennellä myös muulloin :)
 
 ## Kurssimateriaalit ja osallistuminen
 
-Kurssille osallistuminen vaatii tunnuksen tehtävien tarkastusjärjestelmään ("TMC"). Huom! Kun luot TMC-tunnuksen, käytä opiskelijanumeroasi TMC-tunnuksena. Tämä mahdollistaa tehtäväpisteiden kytkemisen sinuun.
+Kurssille osallistuminen vaatii tunnuksen tehtävien tarkastusjärjestelmään ("TMC"). Huom! Kun luot TMC-tunnuksen, **käytä opiskelijanumeroasi TMC-tunnuksena**. Tämä mahdollistaa tehtäväpisteiden kytkemisen sinuun.
 
 Ohjeet kurssin työkalujen (NetBeans ja TMC) käyttöön ja TMC-tunnuksen luomiseen:
 - [Ohjeet tehtävien tekemiseen tietojenkäsittelytieteen laitoksen koneilla](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/TmcBeanssinAsennusLaitokselle.md)
@@ -65,9 +65,9 @@ Ohjeet kurssin työkalujen (NetBeans ja TMC) käyttöön ja TMC-tunnuksen luomis
 
 Jos teet tehtäviä sekä kotoa että TKTL:ltä, seuraa molempia ohjeita, mutta tee vain yksi TMC-tunnus :).
 
-Kurssimateriaali ja tehtävät löytyvät osoitteesta **TODO** -- kun materiaali kysyy TMC-tunnusta, kirjoita opiskelijanumerosi. Materiaalia julkaistaan lisää viikoittain.
+Kurssimateriaali ja tehtävät löytyvät osoitteesta <http://www.cs.helsinki.fi/group/java/kesa15/viikko1/> -- kun materiaali kysyy TMC-tunnusta, kirjoita opiskelijanumerosi. Materiaalia julkaistaan lisää viikoittain.
 
-Ohjelmoinnin jatkokurssin materiaali alkaa viikosta 8.
+<!-- Ohjelmoinnin jatkokurssin materiaali alkaa viikosta 8. -->
 
 ## Kurssien arvosteluperusteet ja tuloslista
 
