@@ -46,7 +46,7 @@ Viikko 7     |                   | Torstai 18.6.
 
 ## Tehtävät ja harjoitukset
 
-Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa/ohjausaikoina tehdään toisesta viikosta lähtien pienimuotoisia paritöitä.
+Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa/ohjausaikoina tehdään toisesta tehtäväsarjasta lähtien pienimuotoisia paritöitä.
 
 Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per tehtäväsarja.
 
