@@ -7,10 +7,11 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 
 1. [Aikataulu](#aikataulu)
 2. [Tehtävät ja harjoitukset](#teht%C3%A4v%C3%A4t-ja-harjoitukset)
-3. [Kokeet](#kokeet)
-4. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
-5. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
-6. [Usein kysytyt kysymykset (UKK)](#ukk)
+3. [Ohjaus](#ohjaus)
+4. [Kokeet](#kokeet)
+5. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
+6. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
+7. [Usein kysytyt kysymykset (UKK)](#ukk)
 
 ## Aikataulu
 
@@ -37,8 +38,9 @@ Viikko 7     |                   | Torstai 18.6.
 
 Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa tehdään lisäksi toisesta viikosta lähtien pienimuotoisia paritöitä.
 
-Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per tehtäväsarja. 
+Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per tehtäväsarja.
 
+## Ohjaus
 Ohjausta järjestetään Exactumin luokassa B221 11.5. - 18.6. seuraavina aikoina:
 
 Päivä | Kellonaika | Huomiot
@@ -84,3 +86,16 @@ Molemmat kurssit koostuvat seitsemästä harjoitustehtäväsarjasta. Jokaisesta 
 ### Onko harjoituksiin osallistuminen pakollista?
 
 Harjoituksiin osallistuminen ei ole kurssin läpipääsyn kannalta pakollista. Kurssilla on kuitenkin viikottain pariohjelmointitehtäviä, joiden tekemiseen vaaditaan läsnäoloa. Pariohjelmointitehtävät ovat neljän tehtäväpisteen arvoisia. 
+
+### En pääse aloitusluennolle, voinko silti osallistua kurssille?
+
+Aloitusluento ei tämän kurssin osalta ole pakollinen. Voit hyvin osallistua kurssille osallistumatta aloitusluennolle. Aloitusluennolla käydään läpi kurssin aikataulu, pisteytys, kokeet sekä tutustutaan kurssilla käytettäviin ohjelmointiympäristöihin.
+
+### Mistä saan apua tehtävien tekemiseen ja missä tehtäviä voi tehdä?
+
+Kurssilla järjestetään ohjausta viikon jokaisena arkipäivänä vähintään neljän tunnin ajan. Tutustu ohjausaikoihin [täällä](#ohjaus). Epävirallista ohjausta saatavilla satunnaisesti myös irkissä [IRCnet#mooc.fi](http://mooc.fi/courses/general/ohjelmointi/tukikanavat/irc/).
+
+Luokka B221 on kurssin opiskelijoiden käytössä pääsääntöisesti myös ohjausaikojen ulkopuolella. Jos kuitenkin luokassa on jotain muuta toimintaa lienee Exactumin luokassa BK107 tilaa sekä koneita tehtävien tekemistä varten.
+
+### 
+
