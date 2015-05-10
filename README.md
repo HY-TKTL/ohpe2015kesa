@@ -5,11 +5,12 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 
 ## Sisällysluettelo
 
-1. [Aikataulu](#Aikataulu)
-2. [Tehtävät ja harjoitukset](#tehtavat-ja-harjoitukset)
-3. [Kokeet](#Kokeet)
-4. [Kurssimateriaalit ja osallistuminen](#Kurssimateriaalit ja osallistuminen)
-5. [Kurssien arvosteluperusteet ja tuloslista](#Kurssien arvosteluperusteet ja tuloslista)
+1. [Aikataulu](#aikataulu)
+2. [Tehtävät ja harjoitukset](#teht%C3%A4v%C3%A4t-ja-harjoitukset)
+3. [Kokeet](#kokeet)
+4. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
+5. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
+6. [Usein kysytyt kysymykset (UKK)](#ukk)
 
 ## Aikataulu
 
@@ -75,3 +76,9 @@ Kurssien arvostelu on *hyväksytty* / *hylätty*.
 Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista ja 30 kokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi kokeesta tulee saada vähintään puolet pisteistä. 
 
 Molemmat kurssit koostuvat seitsemästä harjoitustehtäväsarjasta. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä.
+
+## UKK
+
+### Onko harjoituksiin osallistuminen pakollista?
+
+Harjoituksiin osallistuminen ei ole kurssin läpipääsyn kannalta pakollista. Kurssilla on kuitenkin viikottain pariohjelmointitehtäviä, joiden tekemiseen vaaditaan läsnäoloa. Pariohjelmointitehtävät ovat neljän tehtäväpisteen arvoisia. 
