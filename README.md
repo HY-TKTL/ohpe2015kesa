@@ -7,11 +7,11 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 
 1. [Aikataulu](#aikataulu)
 2. [Tehtävät ja harjoitukset](#teht%C3%A4v%C3%A4t-ja-harjoitukset)
-3. [Ohjaus](#ohjaus)
-4. [Kokeet](#kokeet)
-5. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
-6. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
-7. [Usein kysytyt kysymykset (UKK)](#ukk)
+  1. [Ohjaus](#ohjaus)
+3. [Kokeet](#kokeet)
+4. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
+5. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
+6. [Usein kysytyt kysymykset (UKK)](#ukk)
 
 ## Aikataulu
 
@@ -40,7 +40,7 @@ Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta,
 
 Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per tehtäväsarja.
 
-## Ohjaus
+### Ohjaus
 Ohjausta järjestetään Exactumin luokassa B221 11.5. - 18.6. seuraavina aikoina:
 
 Päivä | Kellonaika | Huomiot
