@@ -28,7 +28,7 @@ Kurssilla on vain yksi luento:
 - Aloitusluento: maanantaina 11.5. klo 16.15-18 
 - Opetuspaikka: A111, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
 
-Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Normaali kurssitoteutus kestää seitsemän viikkoa, nyt käytettävissä on kuitenkin vain 5.5 viikkoa. Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä. 
+Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Kevään ja syksyn kurssitoteutukset kestävät seitsemän viikkoa, nyt kesällä käytettävissä on kuitenkin vain 5.5 viikkoa samalla työmäärälle. **Varaudu suurehkoon työmäärään viikottain.** Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä. 
 
 **HUOM!** Vaikka tehtäväsarjojen yhteydessä puhutaankin viikoista, on kunkin tehtäväsarjan tekemiseen varattu vain neljä (4) arkipäivää. Alla kurssin **alustava** aikataulusuunnitelma.
 
