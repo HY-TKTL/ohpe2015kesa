@@ -131,4 +131,4 @@ Luokka B221 on kurssin opiskelijoiden käytössä pääsääntöisesti myös ohj
 Kaikki mahdolliset yhteydenotot sähköpostitse, lue tämä sivu kuitenkin huolella ennen viestin lähettämistä. 
 
 Joni Salmi <br>
-[josalmi@cs.helsinki.fi](mailto:josalmi@cs.helsinki.fi?subject=[AVOIN KESÄ] Otsikkosi tähän)
+[josalmi@cs.helsinki.fi](mailto:josalmi@cs.helsinki.fi?subject=%5BAVOIN%20KES%C3%84%5D%20Otsikkosi%20t%C3%A4h%C3%A4n)
