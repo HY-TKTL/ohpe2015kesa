@@ -18,9 +18,9 @@ Kurssilla on vain yksi luento:
 - Aloitusluento: maanantaina 11.5. klo 16.15-18 
 - Opetuspaikka: A111, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
 
-Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä.
+Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä. 
 
-**ALUSTAVAT**
+**HUOM!** Vaikka tehtäväsarjojen yhteydessä puhutaankin viikoista, on kunkin tehtäväsarjan tekemiseen varattu vain neljä (4) arkipäivää. Alla kurssin **alustava** aikataulusuunnitelma.
 
 Tehtäväsarja | Julkaisupäivä     | Deadline
 :----------- |:----------------- |:--------
