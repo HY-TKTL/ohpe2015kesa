@@ -22,15 +22,15 @@ Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta joht
 
 **ALUSTAVA**
 
-Tehtäväsarja | Deadline
-:----------- |:--------
-Sarja 1      | Sunnuntai 17.5.
-Sarja 2      | Torstai 21.5.
-Sarja 3      | Keskiviikko 27.5.
-Sarja 4      | Tiistai 2.6.
-Sarja 5      | Maanantai 8.6.
-Sarja 6      | Perjantai 12.6.
-Sarja 7      | Torstai 18.6.
+Tehtäväsarja | Julkaisupäivä     | Deadline
+:----------- |:----------------- |:--------
+Viikko 1     | Maanantaina 11.5. | Sunnuntai 17.5.
+Viikko 2     |                   | Torstai 21.5.
+Viikko 3     |                   | Keskiviikko 27.5.
+Viikko 4     |                   | Tiistai 2.6.
+Viikko 5     |                   | Maanantai 8.6.
+Viikko 6     |                   | Perjantai 12.6.
+Viikko 7     |                   | Torstai 18.6.
 
 
 ## Tehtävät ja harjoitukset
@@ -54,6 +54,8 @@ Luokassa saa toki työskennellä myös muulloin :)
 ## Kokeet
 
 **Muista ilmoittautua valitsemaasi tenttiin viimeistään 10 vuorokautta ennen tenttipäivää** Avoimen yliopiston Omat sivut-palvelussa. Lisätietoa kokeista löydät avoimen yliopiston sivuilta: <https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461>.
+
+Paperitentin lisäksi kurssi lopuksi järjestetään konekoe. Konekoe suoritetaan kotona tai laitoksella itsenäisesti. Konekokeesta tulee lisätietoa myöhemmin. 
 
 ## Kurssimateriaalit ja osallistuminen
 
