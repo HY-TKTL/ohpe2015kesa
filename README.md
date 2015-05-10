@@ -108,7 +108,7 @@ Kurssimateriaali ja tehtävät löytyvät osoitteesta <http://www.cs.helsinki.fi
 
 Kurssien arvostelu on *hyväksytty* / *hylätty*.
 
-Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista, 15 paperikokeesta ja 15 konekokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi molemmista kokeista tulee saada vähintään puolet pisteistä. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä. 
+Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista, 15 paperikokeesta ja 15 konekokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi molemmista kokeista tulee saada vähintään puolet pisteistä. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä, tutustu [tehtävien pisteytykseen](#teht%C3%A4vien-pisteytys).
 
 ## UKK
 
