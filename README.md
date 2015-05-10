@@ -13,7 +13,8 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 
 1. [Aikataulu](#aikataulu)
 2. [Tehtävät ja harjoitukset](#teht%C3%A4v%C3%A4t-ja-harjoitukset)
-  1. [Ohjaus](#ohjaus)
+  1. [Tehtävien pisteytys](#teht%C3%A4vien-pisteytys)
+  2. [Ohjaus](#ohjaus)
 3. [Kokeet](#kokeet)
 4. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
 5. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
@@ -44,9 +45,20 @@ Viikko 7     |                   | Torstai 18.6.
 
 ## Tehtävät ja harjoitukset
 
-Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa/ohjausaikoina tehdään lisäksi toisesta viikosta lähtien pienimuotoisia paritöitä.
+Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa/ohjausaikoina tehdään toisesta viikosta lähtien pienimuotoisia paritöitä.
 
 Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per tehtäväsarja.
+
+### Tehtävien pisteytys
+
+Jokainen tehtävän alikohta lasketaan yhdeksi pisteeksi, alikohdattomat tehtävät ovat yhden pisteen arvoisia, jokainen selitystehtävä on kahden pisteen arvoinen ja jokainen pariohjelmointitehtävä on neljän pisteen arvoinen.
+
+Lyhyesti vielä:
+
+- 1 piste per alikohdaton TMC-tehtävä
+- 1 piste per alikohta TMC-tehtävissä
+- 2 pistettä per selitystehtävä
+- 4 pistettä per pariohjelmointitehtävä
 
 ### Ohjaus
 Ohjausta järjestetään Exactumin luokassa B221 11.5. - 18.6. seuraavina aikoina:
@@ -87,7 +99,7 @@ Kurssien arvostelu on *hyväksytty* / *hylätty*.
 
 Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista, 15 paperikokeesta ja 15 konekokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi molemmista kokeista tulee saada vähintään puolet pisteistä. 
 
-Molemmat kurssit koostuvat seitsemästä harjoitustehtäväsarjasta. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä.
+Molemmat kurssit koostuvat seitsemästä harjoitustehtäväsarjasta. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä. 
 
 ## UKK
 
