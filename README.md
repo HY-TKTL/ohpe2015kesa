@@ -28,7 +28,7 @@ Kurssilla on vain yksi luento:
 - Aloitusluento: maanantaina 11.5. klo 16.15-18 
 - Opetuspaikka: A111, Kumpulan kampus, Exactum, Gustaf Hällströminkatu 2 B
 
-Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä. 
+Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta johtuen. Normaali kurssitoteutus kestää seitsemän viikkoa, nyt käytettävissä on kuitenkin vain 5.5 viikkoa. Tehtävien tekemiseen ei ole mahdollista saada lisäaikaa ilman erittäin painavaa syytä. 
 
 **HUOM!** Vaikka tehtäväsarjojen yhteydessä puhutaankin viikoista, on kunkin tehtäväsarjan tekemiseen varattu vain neljä (4) arkipäivää. Alla kurssin **alustava** aikataulusuunnitelma.
 
@@ -107,9 +107,7 @@ Kurssimateriaali ja tehtävät löytyvät osoitteesta <http://www.cs.helsinki.fi
 
 Kurssien arvostelu on *hyväksytty* / *hylätty*.
 
-Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista, 15 paperikokeesta ja 15 konekokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi molemmista kokeista tulee saada vähintään puolet pisteistä. 
-
-Molemmat kurssit koostuvat seitsemästä harjoitustehtäväsarjasta. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä. 
+Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväsarjoista, 15 paperikokeesta ja 15 konekokeesta. Kurssin läpäisee noin 75 pisteellä, jonka lisäksi molemmista kokeista tulee saada vähintään puolet pisteistä. Jokaisesta harjoitussarjasta voi saada kymmenen (10) kurssipistettä. 
 
 ## UKK
 
