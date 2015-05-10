@@ -56,21 +56,19 @@ Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävi
 - 2 pistettä per selitystehtävä
 - 4 pistettä per pariohjelmointitehtävä
 
-Tehtäväpisteet muuntuvat kurssipisteiksi seuraavan taulukon mukaan:
+Tehtäväpisteet muuntuvat kurssipisteiksi seuraavasti. Ensimmäisen kurssipisteen saa kymmenellä (10) prosentilla viikon tehtäväpisteistä ja aina yhdeksäänkymmeneen (90) prosenttiin asti kukin kymmenen (10) prosentin edistyminen tuo yhden kurssipisteen lisää. Viimeisen kurssipisteen saa yhdeksälläkymmenelläviidellä (95) prosentilla.
 
-| Prosenttia | Kurssipisteitä
-|:---------- |:---------------
-| 10%        | 1 kurssipiste
-| 20%        | 2 kurssipistettä
-| 30%        | 3 kurssipistettä
-| 40%        | 4 kurssipistettä
-| 50%        | 5 kurssipistettä
-| 60%        | 6 kurssipistettä
-| 70%        | 7 kurssipistettä
-| 80%        | 8 kurssipistettä
-| 90%        | 9 kurssipistettä
-| 95%        | 10 kurssipistettä
+Jos viikon maksimi on 100 tehtäväpistettä näyttää pisteytys seuraavalta:
 
+| Tehtäväpisteitä | Kurssipisteitä
+|:--------------- |:--------------
+| 0-9             | 0
+| 10-19           | 1
+| 20-29           | 2
+| ...             | ...
+| 80-89           | 8
+| 90-94           | 9
+| 95-100          | 10
 
 ### Ohjaus
 Ohjausta järjestetään Exactumin luokassa B221 11.5. - 18.6. seuraavina aikoina:
