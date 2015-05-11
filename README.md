@@ -122,7 +122,7 @@ Kurssilla voi saada yhteensä 100 pistettä, joista 70 tulee harjoitustehtäväs
 
 Harjoituksiin osallistuminen ei ole kurssin läpipääsyn kannalta pakollista. Kurssilla on kuitenkin viikottain pariohjelmointitehtäviä, joiden tekemiseen vaaditaan läsnäoloa. Pariohjelmointitehtävät ovat neljän tehtäväpisteen arvoisia. 
 
-Pariohjelmointitehtävien vaikutus kurssin läpipääsyyn näiden vaikutus kurssin läpipääsyyn ei liene kovin suuri. Pariohjelmointitehtäviä on yks viikossa, poislukien ensimmäinen viikko. Eli pariohjelmointitehtävät vaikuttanevat maksimissaan yhden kurssipisteen verran viikkoa kohden.
+Pariohjelmointitehtävien vaikutus kurssin läpipääsyyn ei liene kovin suuri. Pariohjelmointitehtäviä on yksi viikossa, pois lukien ensimmäinen viikko tai siis ensimmäinen tehtäväsarja. Eli pariohjelmointitehtävät vaikuttanevat arviolta yhden kurssipisteen verran jokaista viikkoa kohden.
 
 Matti Mallikas saa kurssin jokaiselta viikkolta yhdeksä kurssipistettä kymmenestä. Matilla on kurssin lopuksi 63 pistettä (9*7 = 63). Kurssin molemmista kokeista on lisäksi saatava vähintään puolet pisteistä eli 7.5 pistettä kummastakin kokeesta. Matti saa siis yhteensä seitsemänkymmentäkahdeksan (63 + 7.5 + 7.5 = 78) kurssipistettä joka on yli läpipääsyrajan.
 
