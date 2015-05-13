@@ -3,6 +3,10 @@
 Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on viikottaisissa harjoitustehtäväsarjoissa, joita tehdään harjoitusryhmissä. 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
+## Ajankohtaista
+
+- 15.5. laitos sulkee ovensa klo 16, ohjauksessa voi kuitenkin olla kello 18 asti kunhan ehtii sisään ennen sulkemisaikaa
+
 ## Tärkeitä linkkejä
 
 - [Materiaali](http://www.cs.helsinki.fi/group/java/kesa15/viikko1/)
