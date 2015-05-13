@@ -80,7 +80,7 @@ Maanantaisin | klo 16-20 | maanantaina 11.5. ohjaus alkaa aloitusluennon jälkee
 Tiistaisin   | klo 12-16 |
 Keskiviikkoisin | klo 16-20 |
 Torstaisin   | klo 14-18 | ei ohjausta helatorstaina (14.5.)
-Perjantaisin | klo 12-18 |
+Perjantaisin | klo 12-18 | 15.5. laitos sulkee ovensa klo 16, ohjauksessa voi kuitenkin olla kello 18 asti kunhan ehtii sisään ennen sulkemisaikaa
 
 Luokassa saa toki työskennellä myös muulloin :)
 
