@@ -39,14 +39,13 @@ Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta joht
 
 Tehtäväsarja | Julkaisupäivä     | Deadline
 :----------- |:----------------- |:--------
-Viikko 1     | Maanantai 11.5.   | Sunnuntai 17.5.
-Viikko 2     | Perjantai 15.5. (alustava)   | Torstai 21.5.
-Viikko 3     |                   | Keskiviikko 27.5.
-Viikko 4     |                   | Tiistai 2.6.
-Viikko 5     |                   | Maanantai 8.6.
-Viikko 6     |                   | Perjantai 12.6.
-Viikko 7     |                   | Torstai 18.6.
-
+Viikko 1     | Maanantai 11.5.   | Sunnuntai 17.5. klo 23:59
+Viikko 2     | Perjantai 15.5.   | Torstai 21.5. klo 23:59
+Viikko 3     | Torstai 21.5.     | Keskiviikko 27.5. klo 23:59
+Viikko 4     | Keskiviikko 27.5. | Tiistai 2.6. klo 23:59
+Viikko 5     | Tiistai 2.6.      | Maanantai 8.6. klo 23:59
+Viikko 6     | Perjantai 5.6.    | Sunnuntai 14.6. klo 23:59
+Viikko 7     | Perjantai 12.6.   | Tiistai 23.6. klo 23:59 (HUOM! Ohjausta 18.6. asti)
 
 ## Tehtävät ja harjoitukset
 
