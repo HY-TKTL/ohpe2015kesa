@@ -4,6 +4,7 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
+- Lisätty tietoa [pariohjelmoinnista](#pariohjelmointi) 
 - Pistelista julkaistu <http://www.cs.helsinki.fi/group/java/kesa15-tulokset-ohpe/>
 - Viikon 1 dl siirretty maanantaille 18.5.2015 kello 23:59
 - Ohjevideo <https://youtu.be/sQYq2LISMRU>
@@ -54,6 +55,20 @@ Viikko 7     | Perjantai 12.6.   | Tiistai 23.6. klo 23:59 (HUOM! Ohjausta 18.6.
 Tehtäviä palautetaan kurssilla tutuksi tulevan ohjelmointiympäristön kautta, kurssimateriaalin kautta sekä harjoitusten yhteydessä. Harjoitustilaisuuksissa/ohjausaikoina tehdään toisesta tehtäväsarjasta lähtien pienimuotoisia paritöitä.
 
 Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävistä, paperi- ja konekokeesta sekä ohjelmoinnin oppimiseen liittyvään tutkimukseen osallistumisesta. Kurssin vaatima työmäärä on noin 6-18 tuntia per tehtäväsarja.
+
+### Pariohjelmointi
+
+Tehtäväsarjasta kaksi alkaen, tehtäväsarjoihin liittyy myös pariohjelmointitehtäviä, jotka suoritetaan tilassa B221 ohjausaikoina. 
+
+Pariohjelmoinnin aloitus ja lopetus:
+
+1. Ilmoita ohjaajalle halustasi pariohjelmoida
+2. Ohjaaja yrittää etsiä sinulle parin, jos sinulla ei sellaista jo ole (voit myös itse etsiä parin)
+3. Ohjaaja antaa teille tehtäväsarjaan liittyvät pariohjelmointitehtävät paperilla
+4. Valitkaa kahdesta tehtävästä toinen ja toteuttakaa se annettujen ohjeiden mukaisesti
+5. Lopuksi pyytäkää ohjaaja tarkistamaan tehtävä sekä kirjaamaan pisteet
+
+Ensimmäiset pariohjelmointitehtävät eivät ole kovin laajoja, mutta jatkossa pariohjelmointitehtävien tekemiseen kannattaa varata aikaa vähintään tunti. Tehtävästä saa pisteet 1.5h yrittämisellä vaikka ohjelmaa ei saisikaan valmiiksi.
 
 ### Tehtävien pisteytys
 
