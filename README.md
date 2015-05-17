@@ -20,8 +20,9 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 
 1. [Aikataulu](#aikataulu)
 2. [Tehtävät ja harjoitukset](#teht%C3%A4v%C3%A4t-ja-harjoitukset)
-  1. [Tehtävien pisteytys](#teht%C3%A4vien-pisteytys)
-  2. [Ohjaus](#ohjaus)
+  1. [Pariohjelmointi](#pariohjelmointi)
+  2. [Tehtävien pisteytys](#teht%C3%A4vien-pisteytys)
+  3. [Ohjaus](#ohjaus)
 3. [Kokeet](#kokeet)
 4. [Kurssimateriaalit ja osallistuminen](#kurssimateriaalit-ja-osallistuminen)
 5. [Kurssien arvosteluperusteet ja tuloslista](#kurssien-arvosteluperusteet-ja-tuloslista)
