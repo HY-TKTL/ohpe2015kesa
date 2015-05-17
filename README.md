@@ -4,6 +4,7 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
+- Pistelista julkaistu <http://www.cs.helsinki.fi/group/java/kesa15-tulokset-ohpe/>
 - Viikon 1 dl siirretty maanantaille 18.5.2015 kello 23:59
 - Ohjevideo <https://youtu.be/sQYq2LISMRU>
 - 15.5. laitos sulkee ovensa klo 16, ohjauksessa voi kuitenkin olla kello 18 asti kunhan ehtii sisään ennen sulkemisaikaa
@@ -11,7 +12,7 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 ## Tärkeitä linkkejä
 
 - [Materiaali](http://www.cs.helsinki.fi/group/java/kesa15/viikko1/)
-- Pistelista (tulossa)
+- [Pistelista](http://www.cs.helsinki.fi/group/java/kesa15-tulokset-ohpe/)
 - [Avoin yliopisto](https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461) (myös tentti-ilmo)
 
 ## Sisällysluettelo
