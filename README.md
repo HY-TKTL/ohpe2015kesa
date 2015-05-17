@@ -58,7 +58,7 @@ Kurssin aktiviteetit koostuvat viikoittaisista ohjelmointi- ja harjoitustehtävi
 
 ### Pariohjelmointi
 
-Tehtäväsarjasta kaksi alkaen, tehtäväsarjoihin liittyy myös pariohjelmointitehtäviä, jotka suoritetaan tilassa B221 ohjausaikoina. 
+Tehtäväsarjasta kaksi alkaen kurssiin liittyy myös pariohjelmointitehtäviä. Pariohjelmointitehtävät suoritetaan tilassa B221 ohjausaikoina. 
 
 Pariohjelmoinnin aloitus ja lopetus:
 
