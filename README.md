@@ -4,6 +4,7 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
+- Viikon 1 dl siirretty maanantaille 18.5.2015 kello 23:59
 - Ohjevideo <https://youtu.be/sQYq2LISMRU>
 - 15.5. laitos sulkee ovensa klo 16, ohjauksessa voi kuitenkin olla kello 18 asti kunhan ehtii sisään ennen sulkemisaikaa
 
@@ -39,7 +40,7 @@ Kurssin aikataulu on erittäin tiukka kesäopintojen tiivistää luonteesta joht
 
 Tehtäväsarja | Julkaisupäivä     | Deadline
 :----------- |:----------------- |:--------
-Viikko 1     | Maanantai 11.5.   | Sunnuntai 17.5. klo 23:59
+Viikko 1     | Maanantai 11.5.   | Maanantai 18.5. klo 23:59 (siirretty Sunnuntai 17.5. klo 23:59)
 Viikko 2     | Perjantai 15.5.   | Torstai 21.5. klo 23:59
 Viikko 3     | Torstai 21.5.     | Keskiviikko 27.5. klo 23:59
 Viikko 4     | Keskiviikko 27.5. | Tiistai 2.6. klo 23:59
