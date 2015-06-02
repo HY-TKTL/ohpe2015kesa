@@ -14,7 +14,7 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 
 - [Materiaali](http://www.cs.helsinki.fi/group/java/kesa15/viikko1/)
 - [Pistelista](http://www.cs.helsinki.fi/group/java/kesa15-tulokset-ohpe/)
-- [Mallivastukset](https://tmc.mooc.fi/hy/courses/42)
+- [Mallivastaukset](https://tmc.mooc.fi/hy/courses/46)
 - [Avoin yliopisto](https://weboodi.helsinki.fi/hy/opettaptied.jsp?html=1&Kieli=1&OpetTap=106865461) (myös tentti-ilmo)
 
 ## Sisällysluettelo
