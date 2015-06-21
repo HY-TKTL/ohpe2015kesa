@@ -4,7 +4,7 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
-- Tarkemmat tiedot konekokeen suorittamisesta maanantaina 22.6.2015 aikana.
+- Tarkemmat tiedot konekokeen suorittamisesta maanantain 22.6.2015 aikana.
   - Konekoetta on mahdollista tehdä 29.6.2015 23:59 asti
   - Konekoe voidaan tarvittaessa uusia
   - Koeaika on 3 tuntia
