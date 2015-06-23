@@ -4,6 +4,9 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
+- Konekokeesta lähetettiin sähköpostia kaikille kurssin osallistujille 22.6.2015
+  - Sähköpostiosoitteina olivat WebOodiin kirjatut osoitteet
+  - Jos et saanut viestiä niin ota välittömästi yhteyttä sähköpostitse <josalmi@cs.helsinki.fi>
 - Tarkemmat tiedot konekokeen suorittamisesta maanantain 22.6.2015 aikana.
   - Konekoetta on mahdollista tehdä 29.6.2015 23:59 asti
   - Konekoe voidaan tarvittaessa uusia
