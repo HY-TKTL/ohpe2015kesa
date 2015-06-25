@@ -4,7 +4,7 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
-- Paperikokeessa oli tarjolla yhteensä 21 pistettä + ylimääräinen piste ensimmäisen sivun tehtävästä
+- Paperikokeessa oli tarjolla yhteensä 21 pistettä + ylimääräinen piste ensimmäisen sivun kyselystä
   - Paperikokeen pisteet skaaltaan viiteentoista kurssipisteeseen ( /1.4 )
 - Konekokeesta lähetettiin sähköpostia kaikille kurssin osallistujille 22.6.2015
   - Sähköpostiosoitteina olivat WebOodiin kirjatut osoitteet
