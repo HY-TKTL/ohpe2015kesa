@@ -6,6 +6,7 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 ## Ajankohtaista
 - Paperikokeessa oli tarjolla yhteensä 21 pistettä + ylimääräinen piste ensimmäisen sivun kyselystä
   - Paperikokeen pisteet skaaltaan viiteentoista kurssipisteeseen ( /1.4 )
+  - Läpipääsyraja lasketaan kurssipisteiden perusteella eli 10.5 koepistettä riittää läpipääsyyn
 - Konekokeesta lähetettiin sähköpostia kaikille kurssin osallistujille 22.6.2015
   - Sähköpostiosoitteina olivat WebOodiin kirjatut osoitteet
   - Jos et saanut viestiä niin ota välittömästi yhteyttä sähköpostitse <josalmi@cs.helsinki.fi>
