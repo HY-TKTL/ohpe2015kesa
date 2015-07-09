@@ -6,7 +6,7 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
 ## Ajankohtaista
 - Alustavat tulokset julkaistu (9.7.)
   - [Alustavat tulokset](https://raw.githubusercontent.com/HY-TKTL/ohpe2015kesa/master/tulokset-20150709.pdf)
-  - [Paperikokeen mallivastaukset](koe240615.md)
+  - [Paperikokeen mallivastaukset ja arvosteluperusteet](koe240615.md)
 - Paperikokeessa oli tarjolla yhteensä 21 pistettä + ylimääräinen piste ensimmäisen sivun kyselystä
   - Paperikokeen pisteet skaaltaan viiteentoista kurssipisteeseen ( /1.4 )
   - Koeleikkurina on puolet kokeen kokonaispistemäärästä, eli 10.5 pistettä. (Tämä skaalautuu 7.5 kurssipisteeseen)
