@@ -8,7 +8,7 @@ Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saa
   - [Alustavat tulokset](https://raw.githubusercontent.com/HY-TKTL/ohpe2015kesa/master/tulokset-20150709.pdf)
   - [Paperikokeen mallivastaukset ja arvosteluperusteet](koe240615.md)
   - **HUOM!** Konekokeet on tarkistettu automaattisilla testeillä. Kaikki testit läpäisseet vastaukset saivat tehtävistä täydet pisteet automaattisesti. Koska arvosteluasteikko on hyväksytty / hylätty, suoritettiin tarkastus käsin vain tarvittaessa. Eli tilanteissa, joissa konekokeesta pisteitä alle 7.5 (koeleikkuri) tai jos kokonaispistemäärä jäi alle 75 pisteen. Tämän johdosta kohdallasi voi näkyä esimerkiksi 0 pistettä jostakin tehtävästä, vaikka se olisikin mennyt hyvin.
-  - Ne joilla molemmat kokeet menivät läpi, mutta läpipääsy jäi kiinni tehtävipisteistä saavat lisätehtäviä niitä erikseen pyydettäessä. Ne jotka ovat jo pyytäneet lisätehtäviä saavat ne tämän viikon aikana sähköpostitse.
+  - Jos molemmat kokeesi menivät läpi, mutta läpipääsy jäi kiinni tehtävipisteistä, voit saada lisätehtäviä korvataksesi puuttuvia pisteitä. Lisätehtävät tulee erikseen pyytää ottamalla yhteyttä sähköpostitse. Ne jotka ovat jo pyytäneet lisätehtäviä saavat ne tämän viikon aikana sähköpostitse.
 - Paperikokeessa oli tarjolla yhteensä 21 pistettä + ylimääräinen piste ensimmäisen sivun kyselystä
   - Paperikokeen pisteet skaaltaan viiteentoista kurssipisteeseen ( /1.4 )
   - Koeleikkurina on puolet kokeen kokonaispistemäärästä, eli 10.5 pistettä. (Tämä skaalautuu 7.5 kurssipisteeseen)
