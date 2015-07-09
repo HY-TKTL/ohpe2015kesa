@@ -4,6 +4,9 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
+- Alustavat tulokset julkaistu
+  - [Tulokset](https://raw.githubusercontent.com/HY-TKTL/ohpe2015kesa/master/tulokset-20150709.pdf)
+  - [Paperikokeen mallivastaukset](koe240615.md)
 - Paperikokeessa oli tarjolla yhteensä 21 pistettä + ylimääräinen piste ensimmäisen sivun kyselystä
   - Paperikokeen pisteet skaaltaan viiteentoista kurssipisteeseen ( /1.4 )
   - Koeleikkurina on puolet kokeen kokonaispistemäärästä, eli 10.5 pistettä. (Tämä skaalautuu 7.5 kurssipisteeseen)
