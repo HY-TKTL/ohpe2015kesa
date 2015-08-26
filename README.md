@@ -4,6 +4,8 @@ Ohjelmointitaito kehittyy vain ohjelmoimalla. Pääpaino kurssin toiminnassa on 
 Harjoitusryhmiä on yhteensä noin 20 tuntia viikossa, ja kaikki opiskelijat saavat käydä kaikissa ryhmissä.
 
 ## Ajankohtaista
+- Toisen kokeen tulokset julkaistu
+  - [Alustavat tulokset](https://raw.githubusercontent.com/HY-TKTL/ohpe2015kesa/master/tulokset-20150801.pdf)
 - Alustavat tulokset julkaistu (9.7.)
   - [Alustavat tulokset](https://raw.githubusercontent.com/HY-TKTL/ohpe2015kesa/master/tulokset-20150709.pdf)
   - [Paperikokeen mallivastaukset ja arvosteluperusteet](koe240615.md)
